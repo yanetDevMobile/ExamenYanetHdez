@@ -1,0 +1,61 @@
+{
+
+  "aplicaciones": [
+    {
+      "nombre": "App 1",
+      "urlImage" : "",
+      "nombreDesarrollador": "Desarrollador1",
+      "categoria": "categoria1"
+    },
+    {
+      "nombre": "App 2",
+      "urlImage" : "",
+      "nombreDesarrollador": "Desarrollador2",
+      "categoria": "categoria1"
+    },
+    {
+      "nombre": "App 3",
+      "urlImage" : "",
+      "nombreDesarrollador": "Desarrollador3",
+      "categoria": "categoria1"
+    },
+    {
+      "nombre": "App 4",
+      "urlImage" : "",
+      "nombreDesarrollador": "Desarrollador10",
+      "categoria": "categoria2"
+    },
+    {
+      "nombre": "App 5",
+      "urlImage" : "",
+      "nombreDesarrollador": "Desarrollador16",
+      "categoria": "categoria2"
+    },
+    {
+      "nombre": "App 6",
+      "urlImage" : "",
+      "nombreDesarrollador": "Desarrollador10",
+      "categoria": "categoria2"
+    },
+    {
+      "nombre": "App 7",
+      "urlImage" : "",
+      "nombreDesarrollador": "Desarrollador19",
+      "categoria": "categoria3"
+    },
+    {
+      "nombre": "App 8",
+      "urlImage" : "",
+      "nombreDesarrollador": "Desarrollador12",
+      "categoria": "categoria3"
+    },
+    {
+      "nombre": "App 9",
+      "urlImage" : "",
+      "nombreDesarrollador": "Desarrollador1",
+      "categoria": "categoria3"
+    }
+  ]
+}
+
+
